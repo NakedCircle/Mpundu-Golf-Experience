@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Augustine Golf Coaching</title>
+  <title>GolfHub</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <style>
     body {
@@ -31,13 +31,15 @@
   <!-- Header -->
   <header class="text-center py-8 fade-in">
     <img src="img/header.jpg.jpg" alt="Golfer Swing" class="w-full h-80 object-cover rounded-b-2xl">
-    <h1 class="text-4xl font-bold mt-6">Augustine "Happy" Mpundu</h1>
-    <p class="text-xl mt-2">30+ Years of Golf Coaching Experience</p>
+    <h1 class="text-4xl font-bold mt-6">GolfHub - Where Beginners Become Pros & Pros Become Legends</h1>
+    <p class="text-xl mt-2">Join the club that's trained champions for decades. Whether you're picking up a club for the first
+      time or perfecting your competitive edge, GolfHub will take your game to the next level.
+    </p>
   </header>
 
   <!-- About Section -->
   <section class="text-center py-10 max-w-4xl mx-auto px-4">
-    <img src="img/coach.jpg" alt="Coach Augustine" class="w-40 h-40 rounded-full mx-auto mb-6 border-4 border-green-500">
+    <img src="img/coach.jpg.jpg" alt="Coach Augustine" class="w-40 h-40 rounded-full mx-auto mb-6 border-4 border-green-500">
     <p class="text-lg leading-relaxed">
       With over three decades of experience, Augustine has coached hundreds of golfers, from beginners to professionals. 
       His unique approach combines skill, patience, and passion to bring out the best in every player.
@@ -101,7 +103,7 @@
     <h2 class="text-3xl font-bold mb-6">Contact Me</h2>
     <p class="mb-4">Phone: +260 97 000 0000 | Email: mpundurichard472@gmail.com | Instagram | What's up</p>
     <button class="bg-green-500 hover:bg-green-600 text-black font-bold py-2 px-6 rounded-full">
-      <a href="https://forms.gle/jzqUtujLcnEhVbzc9" target="_blank" class="book-btn">Book a lesson</a>
+      <a href="https://forms.gle/jzqUtujLcnEhVbzc9" target="_blank" class="book-btn">Unlock Your Inner Pro - Book Now</a>
     </button>
   </section>
 
