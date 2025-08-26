@@ -47,7 +47,7 @@
   </section>
 
   <!-- Testimonials -->
-  <section class="py-10 bg-green-900 bg-opacity-70 text-center">
+  <section class="py-10 bg-black 000 bg-opacity-100 text-center">
     <h2 class="text-3xl font-bold mb-6">What Students Say</h2>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-6xl mx-auto px-4">
       <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
@@ -77,7 +77,7 @@
   </section>
 
   <!-- Lessons & Pricing -->
-  <section class="py-10 bg-green-800 text-center">
+  <section class="py-10 bg-black 000 bg-opacity-100 text-center">
     <h2 class="text-3xl font-bold mb-6">Lessons & Pricing</h2>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-6xl mx-auto px-4">
       <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
@@ -109,3 +109,4 @@
 
 </body>
 </html>
+
